@@ -40,7 +40,7 @@ OBJETIVOS DE APRENDIAZADO E MELHORIAS
 
 
 
-PRIMEIRO PASSOS E PROCEDIMENTOS SEGUROS:
+PRIMEIROS PASSOS E PROCEDIMENTOS SEGUROS:
 
 - coletar dados dinâmicos de fontes seguras na web
 - organizar data frame dos indicadores de forma clara
